@@ -1,0 +1,2 @@
+P00001,D001,13052025,Fever,Paracetamol,1 tablet every 6 hours
+P00001,D001,13052025,Fever,Paracetamol 500,Every 6 hour
