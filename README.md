@@ -1,5 +1,3 @@
-# clinic-management-system-python
-A Python clinic management system built by Group 31, with separate menus for patients, receptionists, nurses, and doctors.
 Clinic Management System
 A command-line clinic management system written in Python for the CT108-3-1-PYP module. Built by Group 31, the application gives receptionists, doctors, nurses, and patients separate menus for their day-to-day tasks.
 Features
